@@ -1,0 +1,50 @@
+
+Main Page
+
+NCBA - paired with ...  ------>
+
+HSE - four subject areas
+I. 					------>
+II. 				------>
+III.				------>
+IV.					------>
+
+General Resources
+
+Navarro College Resources
+
+
+
+
+------>
+NCBA 
+[Add in a Calendar]
+Curriculum
+Chapter 4
+	drop down [Bootstrap]
+	each section {for each chapter}
+Chapter 7
+Chapter 9
+Chapter 10
+Chapter 12
+
+
+
+------>
+HSE (Subject) 
+
+Module List 
+	Module 1	
+	drop down [Bootstrap]
+	each section {for each Module}
+		section1	------>
+
+standards	------>
+themes		------>
+	{links to spread sheet with standards and links to relevant lesson}
+skills 		------>
+	{links to spread sheet with standards and links to relevant lesson}
+
+Educator Resources List
+from PD etc
+add list of links
