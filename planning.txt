@@ -48,3 +48,13 @@ skills 		------>
 Educator Resources List
 from PD etc
 add list of links
+
+
+
+Tasks
+_X_ All Modules from Syllabus in Module List
+___ For each HSE subject, list lessons in Module list
+	_X_ Science
+	___ Math
+	___ Social Studies
+	___ English
