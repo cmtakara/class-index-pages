@@ -58,3 +58,14 @@ ___ For each HSE subject, list lessons in Module list
 	___ Math
 	___ Social Studies
 	___ English
+___	For each HSE subject, have a page for standards
+	___ Science themes
+	___ Science practices
+	___ Social Studies themes
+	___ Social Studies practices
+	___ Math Quantitative Problem Solving
+	___ Math Algebraic Problem Solving
+	___ Mathematical Practices
+	___ English Reading Assessment Targets
+	___ English Language Assessment Targets
+	___ English Writing Assessment Targets
